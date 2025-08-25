@@ -8,7 +8,7 @@
 ## 报告系列
 本系列报告深入探讨AIGC的哲学思考、技术演进、应用场景及未来趋势，旨在为行业发展提供前瞻性洞察和理论支持。
 
-- [AIGC发展研究3.0发布版C版](https://github.com/thu-nmrc/AIGC-Development-Research-3.0/tree/main/%E7%AC%AC%E4%B8%89%E7%89%88)
+- [AIGC发展研究3.0版](https://github.com/thu-nmrc/AIGC-Development-Research-3.0/tree/main/%E7%AC%AC%E4%B8%89%E7%89%88)
 - [AIGC发展研究1.0版](AIGC发展研究1.0版.md)
 
 更多报告将陆续发布，敬请关注。
